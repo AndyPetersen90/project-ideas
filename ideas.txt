@@ -1,0 +1,34 @@
+tool tracking web app (
+    log in feature
+    personal landing page with data about tools owned, loaned, and wants
+    page to update tools (delete, edit, add)
+    page to put a tool on loan to someone
+    page to a wishlist (add, remove, move to purchased, edit)
+)
+movie tracking we app (
+    login main page
+    personal landing page
+    a library page of your owned movie titles
+    a wishlist page for listing movies you want to own
+)
+dinedecider (
+    main page with a create group or join group option (
+        if a user starts a new group (
+            they have a page to set boundries ei distance, ratings, food type
+            option to share group link or group login
+        )
+        if user is joining a group (
+            user goes right into liking or unliking restaurants
+        )
+    )
+    page for user to like or unlike a restaurant (possible api with google for local restaurant data.)
+    once a match is made, an alert is sent out to announce the restaurant (
+        if not restaurant in an area is matched (
+            restaurant with the most likes will be displayed as an option
+            option to expand restaurant search is provided.
+        )
+    )
+    
+
+
+)
