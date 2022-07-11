@@ -10,7 +10,7 @@ MVP
     -option to remove movies from favorites
     -option to add movies to favorites
 -Add new movies page
-    -api request for a movie information
+    -api request for a movie information and form to manually add
     -option to add movie and info to your collection
 -My collection page
     -display pages of the movies you already owned
