@@ -15,6 +15,7 @@ MVP
 -My collection page
     -display pages of the movies you already owned
     -option to remove movies
+    -option to filter the collection
     -option to add movies and takes you to add movie page
 -Wants page
     -displays your list of desired movies
