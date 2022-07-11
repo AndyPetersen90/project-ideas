@@ -1,0 +1,31 @@
+MVP and possible Data tables for the Movie Web app
+
+MVP
+-Sign in
+-Home pages
+    -Displays a favorite list
+    -displays a list of recently added movies
+    -displays a list of wanted movies
+-Favorites page
+    -option to remove movies from favorites
+    -option to add movies to favorites
+-Add new movies page
+    -api request for a movie information
+    -option to add movie and info to your collection
+-My collection page
+    -display pages of the movies you already owned
+    -option to remove movies
+    -option to add movies and takes you to add movie page
+-Wants page
+    -displays your list of desired movies
+    -button to add a movie directly to your collection that also removes from wants list
+    -api search function
+    -option to add searched movie to your wants list
+
+
+
+Data tables
+* User info table, user-id, user-name, username and password
+* collections table, user-id, movie-name, movie-genre, movie-actors, movie-rating, and movie-release-date
+* Favorites table, user-id, movie-name, movie-genre, movie-actors, movie-rating, and why its a favorite
+* Wants list table, user-id, movie-name, movie-rating, and movie-genre
